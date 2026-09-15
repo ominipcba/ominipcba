@@ -1,16 +1,31 @@
-## Hi there 👋
+# OminiPCB
 
-<!--
-**ominipcba/ominipcba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OminiPCB is a PCB manufacturing and PCBA/EMS supplier with its own source factory in Shenzhen, China.
 
-Here are some ideas to get you started:
+## What We Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PCB Manufacturing
+- PCBA Manufacturing
+- EMS
+- Component Sourcing
+
+## Manufacturing
+
+Our source factory supports prototype and low-to-medium volume PCB and PCBA production, including HDI, heavy copper, multilayer PCB, SMT assembly and more.
+
+## Website
+
+https://ominipcb.com
+
+## Resources
+
+- PCB Knowledge Base
+- PCB Calculators
+- PCB Manufacturing Guides
+- PCB Today
+
+## Contact
+
+For PCB manufacturing and PCBA projects:
+
+https://ominipcb.com
